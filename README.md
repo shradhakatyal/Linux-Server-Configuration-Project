@@ -124,4 +124,6 @@ application.secret_key = 'super_secret_key'
 - Restart apache2: sudo service apache2 restart
 
 ## External Links used to complete the project
--
+- https://askubuntu.com/questions/138423/how-do-i-change-my-timezone-to-utc-gmt
+- https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
+- https://stackoverflow.com/questions/14604699/how-to-activate-virtualenv
